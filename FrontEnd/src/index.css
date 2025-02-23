@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* Google font */
+.crimson-text-semibold {
+  font-family: "Crimson Text", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+  
+.crimson-text-bold {
+  font-family: "Crimson Text", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* scrollbar */
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+}
