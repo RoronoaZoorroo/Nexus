@@ -14,7 +14,7 @@ const forgotPassword = () => {
           <Logo></Logo>
           <ul className='flex gap-4'>
             <li><Link to="/"><Btn name="Login" /></Link></li>
-            <li><Link to="/"><Btn name="SignUp" /></Link></li>
+            <li><Link to="/signup"><Btn name="SignUp" /></Link></li>
           </ul>
         </nav>
         <div className='h-screen w-full py-12 flex justify-center '>
